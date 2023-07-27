@@ -1,7 +1,7 @@
 # OopUml
 Bu depo, nesne yönelimli programlama konusunda oluşturduğum UML diyagramlarını içermektedir. Nesne yönelimli programlama prensiplerini açıklamak ve görselleştirmek için oluşturulan UML diyagramları, sınıf yapıları, kalıtım ilişkileri, arayüzler ve diğer nesne yönelimli kavramları içerir. Bu diyagramlar, OOP prensiplerini anlamak ve öğrenmek isteyenler için yararlı bir kaynak olmayı amaçlamaktadır. Umuyorum ki, bu diyagramlarla nesne yönelimli programlamayı daha iyi anlayabilir ve projelerinizde bu prensipleri uygulamak için bir rehber olarak kullanabilirsiniz. Katkılarınız ve geri bildirimleriniz her zaman açıktır, böylece bu depoyu daha da geliştirebiliriz
 
-============================================================================================================================================================================
+=====================================================================
 Hayvanat Bahçesi Yönetim Sistemi - Polimorfizm Modeli
 
 Bu UML sınıf diyagramı, bir hayvanat bahçesindeki hayvanların bilgilerini takip etmek için tasarlanan bir sistem üzerinde polimorfizm modelini gösterir. Polimorfizm, farklı hayvan grupları için aynı işlevleri farklı şekilde gerçekleştirme yeteneğidir.
@@ -34,8 +34,7 @@ Katkılarınız ve geri bildirimleriniz her zaman açıktır, böylece programı
 
 İyi kullanımlar!
 
-=============================================================================================================================================================================
-
+===============================================================
 Üniversite Yönetim Sistemi - Class (Sınıf) Diyagramı
 
 Bu Class (Sınıf) diyagramı, bir üniversite yönetim sisteminin temel yapılarını gösterir. Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar ile çalışanlar arasındaki ilişkileri gösterir.
